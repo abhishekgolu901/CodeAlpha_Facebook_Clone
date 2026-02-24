@@ -1,1 +1,1 @@
-#CodeAlpha_AMAZON_Clone
+Social Media Web Application (Facebook-style UI)
